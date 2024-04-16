@@ -1,0 +1,122 @@
+{
+    "documents": [
+        {
+            "id": "id__1990",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.6,
+                "neutral": 0.17,
+                "negative": 0.23
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.5,
+                        "neutral": 0.33,
+                        "negative": 0.17
+                    },
+                    "offset": 0,
+                    "length": 48,
+                    "text": "— Guardai-me, ó Deus, porque em vós me refugio!\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.5,
+                        "neutral": 0.33,
+                        "negative": 0.17
+                    },
+                    "offset": 48,
+                    "length": 48,
+                    "text": "— Guardai-me, ó Deus, porque em vós me refugio!\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.3,
+                        "neutral": 0.69,
+                        "negative": 0.01
+                    },
+                    "offset": 96,
+                    "length": 85,
+                    "text": "— Ó Senhor, sois minha herança e minha taça, meu destino está seguro em vossas mãos! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.64,
+                        "neutral": 0.33,
+                        "negative": 0.03
+                    },
+                    "offset": 181,
+                    "length": 78,
+                    "text": "Tenho sempre o Senhor ante meus olhos, pois se o tenho a meu lado não vacilo.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 259,
+                    "length": 116,
+                    "text": "— Eis por que meu coração está em festa, minha alma rejubila de alegria, e até meu corpo no repouso está tranquilo; ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 375,
+                    "length": 85,
+                    "text": "pois não haveis de me deixar entregue à morte, nem vosso amigo conhecer a corrupção.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.16,
+                        "neutral": 0.84,
+                        "negative": 0.01
+                    },
+                    "offset": 460,
+                    "length": 45,
+                    "text": "— Vós me ensinais vosso caminho para a vida; ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 505,
+                    "length": 76,
+                    "text": "junto a vós, felicidade sem limites, delícia eterna e alegria ao vosso lado!",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
